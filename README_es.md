@@ -9,10 +9,12 @@
 
 Automatic import of offers from Airbnb. Sync calendars. Order Management.
 
+## <a href="https://estate.im/">Estate.im</a> - ¡asistente de propietario de airbnb!
+
 <hr />
 
-## Copia exacta de Airbnb! Configuración en 5 minutos!
-## <a href="https://demo.estate.im">sitio web de demostración</a>
+### Copia exacta de Airbnb! Configuración en 5 minutos!
+### <a href="https://demo.estate.im">sitio web de demostración</a>
 
 ### características AIrbnb
 * Importar apartamentos desde Airbnb ( <a href="https://estate.im/">Demo import</a> )
@@ -32,10 +34,13 @@ Automatic import of offers from Airbnb. Sync calendars. Order Management.
 * Google Analytics, Yandex Metrika.
 * Soporte 24/7.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> - ¡asistente de propietario de airbnb!
 
 <hr />
 
-Versión = 0.0.4 <br />
+Versión = 0.0.5 <br />
 Nombre de la biblioteca = channel_manager_airbnb <br />
 Título = Channel manager Airbnb <br />
 Palabras clave = airbnb clone script estate wordpress site theme rental software python django, channel manager <br />

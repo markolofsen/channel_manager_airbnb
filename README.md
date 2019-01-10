@@ -9,10 +9,12 @@ Attention to Airbnb homeowners! Save time and money with new Airbnb Assistant. G
 
 Automatic import of offers from Airbnb. Sync calendars. Order Management.
 
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
+
 <hr />
 
-## Exact copy of Airbnb! Setup in 5 minutes!
-## <a href="https://demo.estate.im">Demo website</a>
+### Exact copy of Airbnb! Setup in 5 minutes!
+### <a href="https://demo.estate.im">Demo website</a>
 
 ### AIrbnb features
 * Import apartments from Airbnb (<a href="https://estate.im/">Demo import</a>)
@@ -32,10 +34,13 @@ Automatic import of offers from Airbnb. Sync calendars. Order Management.
 * Google Analytics, Yandex Metrika.
 * 24/7 support.
 
+<hr />
+
+## <a href="https://estate.im/">Estate.im</a> — homeowner assistant for airbnb!
 
 <hr />
 
-Version = 0.0.4 <br />
+Version = 0.0.5 <br />
 Library name = channel_manager_airbnb <br />
 Title = Channel manager Airbnb <br />
 Keywords = airbnb clone script estate wordpress site theme rental software python django, channel manager <br />
